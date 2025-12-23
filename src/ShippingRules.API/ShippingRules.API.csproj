@@ -33,7 +33,7 @@
     <PackageReference Include="Microsoft.Data.OData" Version="5.8.4"/>
     
     <!-- CVE-2021-26701: Remote Code Execution vulnerability -->
-    <PackageReference Include="System.Net.Http.WinHttpHandler" Version="4.3.0" />
+    <PackageReference Include="System.Net.Http.WinHttpHandler" Version="4.5.4" />
   </ItemGroup>
 
   <ItemGroup>
